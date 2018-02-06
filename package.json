@@ -1,6 +1,6 @@
 {
   "name": "turtle2jsonld",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Transforms a Turtle file into a JSON-LD file",
   "bin":"bin/ttl2jsonld.js",
   "main": "lib/ttl2jsonld.js",

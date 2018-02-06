@@ -8,11 +8,11 @@ _(!) Converts not only turtle files, but in fact all serializations from the N3 
 
 Have nodejs installed on your system. Install the script using:
 ```bash
-npm install -g ttl2jsonld
+npm install -g turtle2jsonld
 ```
 
 ## Usage
 
 ```bash
-cat *.ttl | ttl2jsonld
+cat *.ttl | turtle2jsonld
 ```
