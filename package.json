@@ -1,6 +1,6 @@
 {
   "name": "turtle2jsonld",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Transforms a Turtle file into a JSON-LD file",
   "bin":"bin/ttl2jsonld.js",
   "main": "lib/ttl2jsonld.js",
@@ -11,5 +11,12 @@
   "license": "MIT",
   "dependencies": {
     "n3": "^0.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pietercolpaert/turtle2jsonld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pietercolpaert/turtle2jsonld/issues"
   }
 }
