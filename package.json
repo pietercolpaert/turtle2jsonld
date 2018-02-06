@@ -1,9 +1,9 @@
 {
   "name": "turtle2jsonld",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transforms a Turtle file into a JSON-LD file",
-  "bin":"bin/TTL2JSONLD.js",
-  "main": "lib/TTL2JSONLD.js",
+  "bin":"bin/ttl2jsonld.js",
+  "main": "lib/ttl2jsonld.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
