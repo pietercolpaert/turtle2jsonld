@@ -1,0 +1,15 @@
+{
+  "name": "turtle2jsonld",
+  "version": "0.0.1",
+  "description": "Transforms a Turtle file into a JSON-LD file",
+  "bin":"bin/TTL2JSONLD.js",
+  "main": "lib/TTL2JSONLD.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pieter.colpaert@ugent.be",
+  "license": "MIT",
+  "dependencies": {
+    "n3": "^0.11.2"
+  }
+}
